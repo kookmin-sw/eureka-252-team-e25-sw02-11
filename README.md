@@ -1,5 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/meKNgBF9)
 # Welcome to 11팀
+![유레카 프로젝트 SW02-1](https://github.com/user-attachments/assets/5969d129-82fd-46b9-add5-db83f50c0c45)
 
 ## 1️⃣ 팀원 소개
 
